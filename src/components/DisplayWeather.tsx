@@ -1,9 +1,5 @@
-import React from 'react'
-
 const DisplayWeather = () => {
-  return (
-    <div>DisplayWeather</div>
-  )
-}
+  return <div>Display Weather</div>;
+};
 
-export default DisplayWeather
+export default DisplayWeather;
