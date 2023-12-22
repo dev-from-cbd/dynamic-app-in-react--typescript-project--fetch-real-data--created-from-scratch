@@ -1,3 +1,5 @@
 import styled from 'styled-components'
 
-export const MainWraper = styled.div
+export const MainWrapper = styled.div`
+
+`
