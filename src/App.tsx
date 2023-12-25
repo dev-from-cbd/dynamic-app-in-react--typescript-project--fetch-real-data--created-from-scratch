@@ -1,6 +1,5 @@
-import React from "react";
 import "./App.css";
-import DisplayWeather from "./components/DisplayWeather";
+import DisplayWeather from "./componets/DisplayWeather";
 
 function App() {
   return (
